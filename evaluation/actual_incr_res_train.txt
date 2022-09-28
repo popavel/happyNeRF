@@ -1,0 +1,4 @@
+actual_incr_res_train
+    lpips_avg: (0.21352140605449677)
+    ssim_avg: (0.8292646303555052)
+    psnr_avg: (17.71246527008698)

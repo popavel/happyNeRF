@@ -1,0 +1,4 @@
+actual_basic_best_train
+    lpips_avg: (0.23121599853038788)
+    ssim_avg: (0.8201230085907977)
+    psnr_avg: (17.78279543321659)

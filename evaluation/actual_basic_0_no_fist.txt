@@ -1,0 +1,4 @@
+actual_basic_2_no_fist
+    lpips_avg: (0.21766646206378937)
+    ssim_avg: (0.8012558590103275)
+    psnr_avg: (18.446874759713072)

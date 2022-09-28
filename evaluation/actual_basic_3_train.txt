@@ -1,0 +1,4 @@
+actual_basic_3_train
+    lpips_avg: (0.2125196009874344)
+    ssim_avg: (0.7981807256334786)
+    psnr_avg: (18.281651042902283)

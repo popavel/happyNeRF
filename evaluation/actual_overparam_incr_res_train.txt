@@ -1,0 +1,4 @@
+actual_overparam_incr_res_train
+    lpips_avg: (0.19850873947143555)
+    ssim_avg: (0.8283981742637117)
+    psnr_avg: (17.872771029023884)

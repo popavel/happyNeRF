@@ -1,0 +1,4 @@
+actual_basic_3_test
+    lpips_avg: (0.271573007106781)
+    ssim_avg: (0.7208499388147953)
+    psnr_avg: (15.96234746932151)

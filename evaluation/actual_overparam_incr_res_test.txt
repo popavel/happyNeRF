@@ -1,0 +1,4 @@
+actual_overparam_incr_res_test
+    lpips_avg: (0.2959149479866028)
+    ssim_avg: (0.7017987025088602)
+    psnr_avg: (16.319428956584233)

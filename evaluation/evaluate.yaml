@@ -1,0 +1,5 @@
+dataset:
+  path: data/hanco_view_0
+  actual: 'actual_basic_best_test'
+  expected: 'expected_test'
+  masks: 'masks_test'

@@ -1,0 +1,4 @@
+actual_incr_res_test
+    lpips_avg: (0.2558343708515167)
+    ssim_avg: (0.7407919516578405)
+    psnr_avg: (15.939903097488418)
