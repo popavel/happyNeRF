@@ -1,0 +1,36 @@
+path_cameras: 'Capture0'
+path_shapes: 'Capture0'
+path_output: 'Capture0'
+
+split: 'test'
+capture_idx: '0'
+#cam_indices: ['400428']
+cam_indices: ['400262', '400281', '400312', '400354', '400377', '400406', '400431', '400480', '400489', '400503']
+
+hand_type: 'right'
+
+#paths_img: ['../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400428/images']
+
+#paths_img: ['../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400262/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400281/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400312/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400350/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400377/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400406/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400431/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400480/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400489/images',
+#            '../../../dataset/interhand/ROM03_RT_No_Occlusion/cam400503/images']
+
+paths_img: ['../../../dataset/interhand/monocular/cam400262/images',
+            '../../../dataset/interhand/monocular/cam400281/images',
+            '../../../dataset/interhand/monocular/cam400312/images',
+            '../../../dataset/interhand/monocular/cam400354/images',
+            '../../../dataset/interhand/monocular/cam400377/images',
+            '../../../dataset/interhand/monocular/cam400406/images',
+            '../../../dataset/interhand/monocular/cam400431/images',
+            '../../../dataset/interhand/monocular/cam400480/images',
+            '../../../dataset/interhand/monocular/cam400489/images',
+            '../../../dataset/interhand/monocular/cam400503/images']
+
+

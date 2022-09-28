@@ -1,0 +1,4 @@
+dataset:
+  path: ../../dataset/interhand
+  subject: 'monocular'
+  hand_type: 'right'

@@ -1,0 +1,11 @@
+#path_cameras: 0000/cameras
+#path_shapes: 0000/shapes
+#path_output: '0000'
+
+#path_cameras: train_data/cameras
+#path_shapes: train_data/shapes
+#path_output: 'train_data'
+
+path_cameras: test_data/cameras
+path_shapes: test_data/shapes
+path_output: 'test_data'
