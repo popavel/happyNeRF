@@ -17,7 +17,6 @@ The necessary dependencies can be installed with the provided conda environment.
 Additionally, pyTorch 1.8.1 and chumpy are required.
 
     pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
-    pip install chumpy
 
 ### Download MANO model
 

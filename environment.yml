@@ -109,4 +109,5 @@ dependencies:
     - opencv-python==4.5.1.48
     - torchmetrics==0.9.3
     - typing-extensions==4.2.0
+    - chumpy==0.70
 prefix: /home/pp/anaconda3/envs/happynerf
