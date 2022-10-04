@@ -33,7 +33,7 @@ To use them for running the code, name the corresponding folder `monocular`
 and put it in the folder `dataset/wild`.
 
 PyCharm users can find run configuration files in the folder `PyCharm_run_configurations`
-Otherwise, following commands can be used as a reference
+Otherwise, following commands can be used as a reference.
 
 ### Train a model
 
@@ -74,7 +74,8 @@ Put the generated `metadata.json` file to the folder `dataset/[name of the datas
 Second, run the preprocessing script located in the folder `tools/prepare_[data set name]`.
 The generated files are placed in the folder `dataset/[name of the dataset]/monocular`.
 
-Examples of commands to run the scripts:
+You can either use the provided Run Configurations 
+or use the following commands as an example.
 
     python prepare_metadata_json.py --cfg 0000.yaml
     python prepare_dataset.py --cfg hanco.yaml
