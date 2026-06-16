@@ -1,3 +1,9 @@
+# This module loads and evaluates the MANO hand model. The MANO/SMPL+H model
+# files it requires (MANO_LEFT.pkl, MANO_RIGHT.pkl) are from the Max Planck
+# Gesellschaft and are restricted to non-commercial research use only; see
+# https://mano.is.tue.mpg.de/license. That non-commercial restriction extends to
+# any use of this module together with those model files.
+
 import os
 
 import numpy as np

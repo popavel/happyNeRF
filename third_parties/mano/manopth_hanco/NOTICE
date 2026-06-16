@@ -1,0 +1,16 @@
+The `manopth/` directory bundles two separately-licensed components:
+
+- The manopth differentiable PyTorch MANO layer (e.g. `manolayer.py`,
+  `rodrigues_layer.py`, `rot6d.py`) is derived from manopth by Yana Hasson,
+  https://github.com/hassony2/manopth, and is licensed under the GNU General
+  Public License v3.0 — see the `LICENSE` file in this directory. This is a
+  modified version ("manopth_hanco"), adapted for the HanCo dataset and modified
+  in 2022; the modifications remain under the GPL v3.0. This NOTICE serves as the
+  GPL-3.0 (section 5a) statement that these files were modified, with the
+  relevant date.
+
+- The MANO/SMPL+H model code (e.g. `load_util.py`, `posemapper.py`) and any
+  downloaded MANO model files are from the Max Planck Gesellschaft and are NOT
+  covered by the GPL above; they are restricted to NON-COMMERCIAL research use
+  only — see the per-file headers and the MANO/SMPL+H license at
+  https://mano.is.tue.mpg.de/license.
